@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\dal\\eventodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\dal\\eventodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|c:\\users\\utente\\source\\repos\\task_eventi_220324\\task_eventi_220324\\models\\taskevento220324context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9261BDBD-3ABF-4544-81B9-A64308043DA0}|Task_eventi_220324\\Task_eventi_220324.csproj|solutionrelative:task_eventi_220324\\models\\taskevento220324context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\DAL\\IDAL.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\DAL\\IDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\DAL\\IDAL.cs",
+              "RelativeToolTip": "Task_eventi_220324\\DAL\\IDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:37:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\Evento.cs",
+              "RelativeToolTip": "Task_eventi_220324\\Models\\Evento.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:14:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\DAL\\EventoDAL.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\DAL\\EventoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\DAL\\EventoDAL.cs",
+              "RelativeToolTip": "Task_eventi_220324\\DAL\\EventoDAL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:07:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partecipante.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\Partecipante.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\Models\\Partecipante.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\Partecipante.cs",
+              "RelativeToolTip": "Task_eventi_220324\\Models\\Partecipante.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:39:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskEvento220324Context.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\TaskEvento220324Context.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\Models\\TaskEvento220324Context.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Models\\TaskEvento220324Context.cs",
+              "RelativeToolTip": "Task_eventi_220324\\Models\\TaskEvento220324Context.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:36:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Program.cs",
+              "RelativeDocumentMoniker": "Task_eventi_220324\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_eventi_220324\\Task_eventi_220324\\Program.cs",
+              "RelativeToolTip": "Task_eventi_220324\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:12:25.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
