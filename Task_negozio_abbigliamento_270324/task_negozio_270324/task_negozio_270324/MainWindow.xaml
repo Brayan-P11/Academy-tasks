@@ -1,0 +1,70 @@
+﻿<Window x:Class="task_negozio_270324.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task_negozio_270324"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    
+    <DockPanel>
+        <!--<Frame x:Name="MainFrame" />-->
+        
+        
+        <!-- inserimento prodotto-->
+        <StackPanel Width="250">
+            <WrapPanel>
+                <TextBlock>INSERIMENTO PRODOTTO:</TextBlock>
+            </WrapPanel>
+            <Label>Nome</Label>
+            <TextBox x:Name="tbNome"></TextBox>
+            <Label>Marca</Label>
+            <TextBox x:Name="tbMarca"></TextBox>
+            <Label>Galleria</Label>
+            <TextBox x:Name="tbGalleria"></TextBox>
+            <Label>Colore</Label>
+            <TextBox x:Name="tbColore"></TextBox>
+            <Label>Taglia</Label>
+            <TextBox x:Name="tbTaglia"></TextBox>
+            <Label>CategoriaRif</Label>
+            <TextBox x:Name="tbCategoriaRif"></TextBox>
+            <Button x:Name="btnSalva" Click="btnSalva_Click">Salva</Button>
+            
+            
+            
+               
+            
+            <StackPanel>
+                <Button x:Name="btnLista" Click="btnLista_Prodotti">Lista Prodotti</Button>
+            </StackPanel>
+            <StackPanel>
+                <Label>Elimina Prodotto: inserisci id</Label>
+                <TextBox x:Name="tbProdottoId1"></TextBox>
+                <Button x:Name="btnEliminaProdotto" Click="btnElimina_Prodotto" Content="Elimina" Height="22"/>
+            </StackPanel>
+            <StackPanel>
+                <Label>Modifica Prodotto: inserisci id</Label>
+                <TextBox x:Name="tbProdottoId2"></TextBox>
+                <Button x:Name="btnModificaProdotto" Click="btnModifica_Prodotto" Content="Modifica" Height="22"/>
+            </StackPanel>
+            
+            
+
+        </StackPanel>
+        
+        <Grid>
+            <DataGrid x:Name="dgProdotti" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nome" Binding="{Binding Nome}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Marca" Binding="{Binding Marca}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Galleria" Binding="{Binding Galleria}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Colore" Binding="{Binding Colore}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Taglia" Binding="{Binding Taglia}"></DataGridTextColumn>
+                    <DataGridTextColumn></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        
+    </DockPanel>
+   
+</Window>

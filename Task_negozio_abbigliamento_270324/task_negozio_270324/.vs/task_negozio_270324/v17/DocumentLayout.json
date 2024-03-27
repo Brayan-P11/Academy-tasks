@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\categoriumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\categoriumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\Models\\TaskNegozio270324Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task_negozio_270324\\Models\\TaskNegozio270324Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\variazionedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\variazionedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\ordineprodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\ordineprodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\dal\\ordinedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\dal\\ordinedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|c:\\users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A221A46A-0D2B-43B8-8AED-82319A916C36}|task_negozio_270324\\task_negozio_270324.csproj|solutionrelative:task_negozio_270324\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\IDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\IDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\IDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\IDAL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:47:21.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VariazioneDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\VariazioneDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\VariazioneDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\VariazioneDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\VariazioneDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:26:22.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdineProdottoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\OrdineProdottoDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\OrdineProdottoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\OrdineProdottoDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\OrdineProdottoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:26:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdineDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\OrdineDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\OrdineDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\OrdineDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\OrdineDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:25:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task_negozio_270324\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\MainWindow.xaml",
+              "RelativeToolTip": "task_negozio_270324\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T11:29:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriumDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\CategoriumDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\CategoriumDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\CategoriumDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\CategoriumDAL.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:48:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UtenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\UtenteDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\UtenteDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\UtenteDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\UtenteDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:48:18.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\Models\\Prodotto.cs",
+              "RelativeToolTip": "task_negozio_270324\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:45:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskNegozio270324Context.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\Models\\TaskNegozio270324Context.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\Models\\TaskNegozio270324Context.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\Models\\TaskNegozio270324Context.cs",
+              "RelativeToolTip": "task_negozio_270324\\Models\\TaskNegozio270324Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwGUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:24:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\MainWindow.xaml.cs",
+              "RelativeToolTip": "task_negozio_270324\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAgwHYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:16:52.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\ProdottoDAL.cs",
+              "RelativeDocumentMoniker": "task_negozio_270324\\DAL\\ProdottoDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_negozio_270324\\task_negozio_270324\\DAL\\ProdottoDAL.cs",
+              "RelativeToolTip": "task_negozio_270324\\DAL\\ProdottoDAL.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:13:01.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
