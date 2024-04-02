@@ -138,3 +138,5 @@ C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\n
 C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\net8.0-windows\task_negozio_270324.pdb
 C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\net8.0-windows\task_negozio_270324.genruntimeconfig.cache
 C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\net8.0-windows\ref\task_negozio_270324.dll
+C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\net8.0-windows\ProdottoWindow.g.cs
+C:\Users\utente\source\repos\task_negozio_270324\task_negozio_270324\obj\Debug\net8.0-windows\ProdottoWindow.baml

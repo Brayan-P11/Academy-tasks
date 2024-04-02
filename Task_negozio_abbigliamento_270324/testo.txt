@@ -1,0 +1,12 @@
+Tabelle:
+prodotto
+prodottoID
+
+
+utente
+
+categoria
+
+variazione
+
+ordine

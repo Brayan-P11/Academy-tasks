@@ -74,8 +74,6 @@ namespace task_negozio_270324.DAL
             return risultato;
         }
 
-
-
         public Prodotto GetById(int id)
         {
             Prodotto prodotto = new Prodotto();
@@ -103,10 +101,12 @@ namespace task_negozio_270324.DAL
                     Prodotto? tmpProd = ctx.Prodottos.FirstOrDefault(p => p.ProdottoId == t.ProdottoId);
                     if (tmpProd is not null)
                     {
+
                         ctx.Prodottos.Update(tmpProd);
                         ctx.SaveChanges();
                         risultato = true;
                     }
+                    //risultato = false;
                 }
                 catch (Exception ex)
                 {

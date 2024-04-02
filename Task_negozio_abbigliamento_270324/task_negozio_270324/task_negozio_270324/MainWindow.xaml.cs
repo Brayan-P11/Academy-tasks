@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Diagnostics.Internal;
+using System.Diagnostics;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -30,6 +32,8 @@ namespace task_negozio_270324
 
         }
 
+        #region METODI PRODOTTI
+
         private void btnSalva_Click(object sender, RoutedEventArgs e)
         {
             string? nome = this.tbNome.Text;
@@ -52,7 +56,8 @@ namespace task_negozio_270324
             if (ProdottoDAL.GetIstance().Insert(temp))
             {
                 MessageBox.Show("Prodotto inserito!");
-                dgProdotti.ItemsSource = ProdottoDAL.GetIstance().GetAll();
+                // possibilita di controllare la lista dopo l'inserimento
+                //dgProdotti.ItemsSource = ProdottoDAL.GetIstance().GetAll();
             }
             else
                 MessageBox.Show("Errore di inserimento");
@@ -74,51 +79,104 @@ namespace task_negozio_270324
 
         private void btnElimina_Prodotto(object sender, RoutedEventArgs e)
         {
-            int id = Convert.ToInt32(this.tbProdottoId1.Text);
+            int id = Convert.ToInt32(this.tbProdottoId.Text);
             if (ProdottoDAL.GetIstance().DeleteById(id))
             {
                 MessageBox.Show("Prodotto eliminato!");
             }
             else
             {
-                MessageBox.Show("errore!");
+                MessageBox.Show("Errore riprova!");
             }
-            this.tbProdottoId1.Text = "";
+            this.tbProdottoId.Text = "";
         }
 
+        //METODO UPDATE NON FUNZIONA
         private void btnModifica_Prodotto(object sender, RoutedEventArgs e)
         {
-            if (MainFrame != null)
-            {
-                MainFrame.Navigate(new Uri("Pagina2.xaml", UriKind.Relative));
-            }
-            else
-            {
-                Console.WriteLine("Il frame principale non è stato impostato correttamente.");
-            }
-            string? nome = this.tbNome.Text;
-            string? marca = this.tbMarca.Text;
-            string? galleria = this.tbGalleria.Text;
-            string? colore = this.tbColore.Text;
-            string? taglia = this.tbTaglia.Text;
+            // apertura di un'altra pagina
+            //if (MainFrame != null)
+            //{
+            //    MainFrame.Navigate(new Uri("ProdottoWindow.xaml", UriKind.Relative));
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Il frame principale non è stato impostato correttamente.");
+            //}
 
-            Prodotto temp = new Prodotto()
+            //------------------------------------------------
+            int id = Convert.ToInt32(this.tbProdottoIdMod.Text);
+            Prodotto? tmpProd = ProdottoDAL.GetIstance().GetById(id);
+            Console.WriteLine(tmpProd.ToString());
+
+            if( tmpProd != null)
             {
-                Nome = nome,
-                Marca = marca,
-                Galleria = galleria,
-                Colore = colore,
-                Taglia = taglia,
-                
-            };
-            if (ProdottoDAL.GetIstance().Update(temp))
-            {
+                string? nome = this.tbNome.Text;
+                string? marca = this.tbMarca.Text;
+                string? galleria = this.tbGalleria.Text;
+                string? colore = this.tbColore.Text;
+                string? taglia = this.tbTaglia.Text;
+
+                tmpProd.Nome = nome;
+                tmpProd.Marca = marca;
+                tmpProd.Galleria = galleria;
+                tmpProd.Colore = colore;
+                tmpProd.Taglia = taglia;
+
+                ProdottoDAL.GetIstance().Update(tmpProd);
                 MessageBox.Show("Prodotto modificato!");
                 dgProdotti.ItemsSource = ProdottoDAL.GetIstance().GetAll();
             }
-            else
+            else 
+            {
                 MessageBox.Show("Errore di modifica");
+            }
+        }
+        #endregion
+
+        #region METODI CATEGORIE
+
+        private void btnSalvaCat_Click(object sender, RoutedEventArgs e)
+        {
+            string? nome = this.tbNomeCat.Text;
+
+            Categorium cate = new Categorium()
+            {
+                Nome = nome,
+            };
+            if(CategoriumDAL.GetIstance().Insert(cate))
+            {
+                MessageBox.Show("Categroria inserita correttamente!");
+            }
+            else
+            {
+                MessageBox.Show("Errore di inserimento :(");
+            }
+            this.tbNomeCat.Text = "";
+
 
         }
+
+        private void btnElimina_Categoria(object sender, RoutedEventArgs e)
+        {
+            int id = Convert.ToInt32(this.tbCategoriaId.Text);
+
+            if (CategoriumDAL.GetIstance().DeleteById(id))
+            {
+                MessageBox.Show("Categoria eliminata correttamente!");
+            }else
+            {
+                MessageBox.Show("Errore riprova!");
+            }
+            this.tbCategoriaId.Text = "";
+        }
+
+        
+
+        private void btnLista_Categorie(object sender, RoutedEventArgs e)
+        {
+            dgCategorie.ItemsSource = CategoriumDAL.GetIstance().GetAll();
+        }
+        #endregion
     }
 }

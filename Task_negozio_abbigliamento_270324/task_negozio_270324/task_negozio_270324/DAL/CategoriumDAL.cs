@@ -76,12 +76,40 @@ namespace task_negozio_270324.DAL
 
         public bool Insert(Categorium t)
         {
-            throw new NotImplementedException();
+            bool risultato = false;
+            using (TaskNegozio270324Context ctx = new TaskNegozio270324Context())
+            {
+                try
+                {
+                    ctx.Categoria.Add(t);
+                    ctx.SaveChanges();
+                    risultato = true;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            }
+            return risultato;
         }
 
         public bool Update(Categorium t)
         {
-            throw new NotImplementedException();
+            bool risultato = false;
+            using (TaskNegozio270324Context ctx = new TaskNegozio270324Context)
+            {
+                try
+                {
+                    Categorium 
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+            }
+            
+            return risultato;
         }
 
         
