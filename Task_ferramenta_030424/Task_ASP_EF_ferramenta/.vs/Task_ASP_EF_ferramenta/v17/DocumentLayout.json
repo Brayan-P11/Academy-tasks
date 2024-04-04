@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\task_asp_ef_ferramenta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\task_asp_ef_ferramenta.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|c:\\users\\utente\\source\\repos\\task_asp_ef_ferramenta\\task_asp_ef_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632F77A4-F86E-4C3C-AA6C-74A9459E2C77}|Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj|solutionrelative:task_asp_ef_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Program.cs",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:57:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\appsettings.json",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:38:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:36:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T13:38:27.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task_ASP_EF_ferramenta",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T13:16:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Repositories\\ProdottoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:56:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task_ASP_EF_ferramenta.http",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.http",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.http",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.http",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-03T13:58:01.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:55:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Task_ASP_EF_ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_EF_ferramenta\\Task_ASP_EF_ferramenta\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Task_ASP_EF_ferramenta\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:52:16.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

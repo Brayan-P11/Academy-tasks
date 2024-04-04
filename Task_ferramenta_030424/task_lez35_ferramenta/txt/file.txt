@@ -1,0 +1,56 @@
+<!--
+          <div class="col-md-4">
+            <h2>Aggiungi Prodotto</h2>
+            <form>
+              <div class="mb-3">
+                <label for="nome" class="form-label">Nome</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="nome"
+                  placeholder="Inserisci il nome"
+                />
+              </div>
+              <div class="mb-3">
+                <label for="descrizione" class="form-label">Descrizione</label>
+                <textarea
+                  class="form-control"
+                  id="descrizione"
+                  placeholder="Inserisci la descrizione"
+                ></textarea>
+              </div>
+              <div class="mb-3">
+                <label for="prezzo" class="form-label">Prezzo</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="prezzo"
+                  placeholder="Inserisci il prezzo"
+                />
+              </div>
+              <div class="mb-3">
+                <label for="quantita" class="form-label">Quantità</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="quantita"
+                  placeholder="Inserisci la quantità"
+                />
+              </div>
+              <div class="mb-3">
+                <label for="categoria" class="form-label">Categoria</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="categoria"
+                  placeholder="Inserisci la categoria"
+                />
+              </div>
+              <button type="submit" class="btn btn-primary">
+                Aggiungi Prodotto
+              </button>
+            </form>
+          </div>
+        -->
+
+        da inserire in una modale

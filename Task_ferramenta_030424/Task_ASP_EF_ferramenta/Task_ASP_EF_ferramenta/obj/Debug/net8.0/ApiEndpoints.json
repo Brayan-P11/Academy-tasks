@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "ElencoLibri",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objProd",
+        "Type": "Task_ASP_EF_ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "ModificaProdotto",
+    "RelativePath": "api/prodotti",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objProd",
+        "Type": "Task_ASP_EF_ferramenta.Models.Prodotto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "DettaglioProdotto",
+    "RelativePath": "api/prodotti/{valCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valCodice",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaProdottoPerCodice",
+    "RelativePath": "api/prodotti/codice/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_ASP_EF_ferramenta.Controllers.ProdottoController",
+    "Method": "EliminaProdottoPerCodice",
+    "RelativePath": "api/prodotti/codice/{varCodice}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
