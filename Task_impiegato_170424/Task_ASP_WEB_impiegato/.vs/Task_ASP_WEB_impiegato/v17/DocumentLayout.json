@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|c:\\users\\utente\\source\\repos\\task_asp_web_impiegato\\task_asp_web_impiegato\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|solutionrelative:task_asp_web_impiegato\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|c:\\users\\utente\\source\\repos\\task_asp_web_impiegato\\task_asp_web_impiegato\\views\\cittum\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|solutionrelative:task_asp_web_impiegato\\views\\cittum\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|c:\\users\\utente\\source\\repos\\task_asp_web_impiegato\\task_asp_web_impiegato\\views\\cittum\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|solutionrelative:task_asp_web_impiegato\\views\\cittum\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|c:\\users\\utente\\source\\repos\\task_asp_web_impiegato\\task_asp_web_impiegato\\wwwroot\\js\\script_citta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C95ED6C3-930C-4352-8966-44AA5F969FB6}|Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato.csproj|solutionrelative:task_asp_web_impiegato\\wwwroot\\js\\script_citta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Cittum\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Task_ASP_WEB_impiegato\\Views\\Cittum\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Cittum\\Lista.cshtml",
+              "RelativeToolTip": "Task_ASP_WEB_impiegato\\Views\\Cittum\\Lista.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:10:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "script_citta.js",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\wwwroot\\js\\script_citta.js",
+              "RelativeDocumentMoniker": "Task_ASP_WEB_impiegato\\wwwroot\\js\\script_citta.js",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\wwwroot\\js\\script_citta.js",
+              "RelativeToolTip": "Task_ASP_WEB_impiegato\\wwwroot\\js\\script_citta.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T14:07:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Cittum\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "Task_ASP_WEB_impiegato\\Views\\Cittum\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Cittum\\Inserimento.cshtml",
+              "RelativeToolTip": "Task_ASP_WEB_impiegato\\Views\\Cittum\\Inserimento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T13:54:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task_ASP_WEB_impiegato\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_ASP_WEB_impiegato\\Task_ASP_WEB_impiegato\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task_ASP_WEB_impiegato\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T13:28:48.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

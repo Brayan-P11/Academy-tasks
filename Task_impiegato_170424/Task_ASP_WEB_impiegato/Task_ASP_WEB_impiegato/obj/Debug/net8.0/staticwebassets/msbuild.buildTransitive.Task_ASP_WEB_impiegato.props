@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Task_ASP_WEB_impiegato.props" />
+</Project>

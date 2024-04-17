@@ -1,0 +1,24 @@
+﻿@model List<Task_ASP_WEB_impiegato.Models.Cittum>
+
+<h1>Lista delle citta</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Cittum cit in Model)
+        {
+            <tr>
+                <td>@cit.Nome</td>
+
+                <td>
+                    <button class="btn btn-danger" type="button" onclick="elimina('@cit.CittaId')">Elimina</button>
+                    <a class="btn btn-warning" href="/Prodotto/Modifica/@cit.CittaId">Modifica</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

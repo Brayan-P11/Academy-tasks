@@ -1,0 +1,12 @@
+﻿@model Task_ASP_WEB_impiegato.Models.Cittum
+
+<h1>Inserisci Citta</h1>
+
+<form method="post" asp-controller="Prodotto" asp-action="Salvataggio">
+    <div class="form-group">
+        <label for="Nome">Nome</label>
+        <input type="text" class="form-control" asp-for=Nome />
+    </div>
+    <br />
+    <button class="btn btn-primary btn-block" type="submit">Salva</button>
+</form>
