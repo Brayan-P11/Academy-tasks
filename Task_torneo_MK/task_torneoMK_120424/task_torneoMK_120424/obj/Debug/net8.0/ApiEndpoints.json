@@ -1,0 +1,78 @@
+[
+  {
+    "ContainingType": "task_torneoMK_120424.Controllers.PersonaggioController",
+    "Method": "ElencoPersonaggi",
+    "RelativePath": "Personaggio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[task_torneoMK_120424.DTO.PersonaggioDto, task_torneoMK_120424, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_torneoMK_120424.Controllers.PersonaggioController",
+    "Method": "InserisciPersonaggio",
+    "RelativePath": "Personaggio/inserisci",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "perDto",
+        "Type": "task_torneoMK_120424.DTO.PersonaggioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_torneoMK_120424.Controllers.SquadraController",
+    "Method": "ElencoSquadre",
+    "RelativePath": "Squadra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[task_torneoMK_120424.DTO.SquadraDto, task_torneoMK_120424, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_torneoMK_120424.Controllers.UtenteController",
+    "Method": "ElencoUtenti",
+    "RelativePath": "Utente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[task_torneoMK_120424.DTO.UtenteDto, task_torneoMK_120424, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

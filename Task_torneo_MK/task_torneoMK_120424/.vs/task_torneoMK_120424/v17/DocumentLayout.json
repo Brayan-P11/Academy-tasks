@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|c:\\users\\utente\\source\\repos\\task_torneomk_120424\\task_torneomk_120424\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|solutionrelative:task_torneomk_120424\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|c:\\users\\utente\\source\\repos\\task_torneomk_120424\\task_torneomk_120424\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|solutionrelative:task_torneomk_120424\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|c:\\users\\utente\\source\\repos\\task_torneomk_120424\\task_torneomk_120424\\repos\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|solutionrelative:task_torneomk_120424\\repos\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|c:\\users\\utente\\source\\repos\\task_torneomk_120424\\task_torneomk_120424\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BA7E58E-AC46-4AB0-92D3-329DD6B3217C}|task_torneoMK_120424\\task_torneoMK_120424.csproj|solutionrelative:task_torneomk_120424\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaggioController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Controllers\\PersonaggioController.cs",
+              "RelativeDocumentMoniker": "task_torneoMK_120424\\Controllers\\PersonaggioController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Controllers\\PersonaggioController.cs",
+              "RelativeToolTip": "task_torneoMK_120424\\Controllers\\PersonaggioController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:12:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Program.cs",
+              "RelativeDocumentMoniker": "task_torneoMK_120424\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Program.cs",
+              "RelativeToolTip": "task_torneoMK_120424\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:35:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquadraRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Repos\\SquadraRepo.cs",
+              "RelativeDocumentMoniker": "task_torneoMK_120424\\Repos\\SquadraRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\Repos\\SquadraRepo.cs",
+              "RelativeToolTip": "task_torneoMK_120424\\Repos\\SquadraRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:26:27.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\appsettings.json",
+              "RelativeDocumentMoniker": "task_torneoMK_120424\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\task_torneoMK_120424\\task_torneoMK_120424\\appsettings.json",
+              "RelativeToolTip": "task_torneoMK_120424\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T10:30:01.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

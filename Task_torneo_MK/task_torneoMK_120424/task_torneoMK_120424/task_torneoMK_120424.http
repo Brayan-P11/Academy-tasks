@@ -1,0 +1,6 @@
+@task_torneoMK_120424_HostAddress = http://localhost:5053
+
+GET {{task_torneoMK_120424_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
